@@ -1,4 +1,7 @@
-- [PROTOCOL OF RESEARCH: The impact of peer-support on self-research and citizen science projects](#protocol-of-research-the-impact-of-peer-support-on-self-research-and-citizen-science-projects)
+# PROTOCOL OF RESEARCH: The impact of peer-support on self-research and citizen science projects
+
+## Table of Contents
+
   * [Typology of research](#typology-of-research)
   * [Abstract](#abstract)
     + [Introduction](#introduction)
@@ -9,8 +12,6 @@
     + [Methodology II: Semi-structured interviews](#methodology-ii-semi-structured-interviews)
   * [Funding](#funding)
   * [References](#references)
-
-# PROTOCOL OF RESEARCH: The impact of peer-support on self-research and citizen science projects
 
 _Copy of document submitted for CRI institutional review board (IRB) - Sent on 12/10/2020; accepted on 22/10/2020._
 
