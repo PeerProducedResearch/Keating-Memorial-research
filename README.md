@@ -39,7 +39,7 @@ Personal science (or personal research) is a specific type of participatory citi
 
 Recently various topics related to personal science have been studied in diverse depth, such as questions of project governance (Grant & Wolf, 2019), the management of self-generated data (Hall, 2014) or new conceptual models to understand the phenomenon (Wolf & De Groot, 2020). However, there is still little literature and systematic studies about other key factors that characterize this type of participant-lead research, especially in connection with advances in open online collaboration and citizen science. For this, it is necessary to explore in greater depth key factors of participation and collaboration related to the motivations and expectations of self-researchers, the learning dynamics and knowledge sharing processes they generate, their group dynamics and the facilitation processes and infrastructure technology in which they participate.
 
-### Details of the project
+## Details of the project
 
 This study aims to create a better understanding of how both individual personal science projects, as well as group citizen science projects that come out of personal science ideas, are performed by individuals, with the goal to understand the interactions, principles and motivations that drive participant-led research within the space of citizen science and personal research. 
 
