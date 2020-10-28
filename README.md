@@ -1,6 +1,6 @@
 # PROTOCOL OF RESEARCH: The impact of peer-support on self-research and citizen science projects
 
-Copy of document submitted for CRI institutional review board (IRB) - Sent on 12/10/2020; accepted on 22/10/2020.
+_Copy of document submitted for CRI institutional review board (IRB) - Sent on 12/10/2020; accepted on 22/10/2020._
 
 ![Image](CRI_small.png)
 
@@ -39,7 +39,49 @@ Personal science (or personal research) is a specific type of participatory citi
 
 Recently various topics related to personal science have been studied in diverse depth, such as questions of project governance (Grant & Wolf, 2019), the management of self-generated data (Hall, 2014) or new conceptual models to understand the phenomenon (Wolf & De Groot, 2020). However, there is still little literature and systematic studies about other key factors that characterize this type of participant-lead research, especially in connection with advances in open online collaboration and citizen science. For this, it is necessary to explore in greater depth key factors of participation and collaboration related to the motivations and expectations of self-researchers, the learning dynamics and knowledge sharing processes they generate, their group dynamics and the facilitation processes and infrastructure technology in which they participate.
 
+### Details of the project
 
+This study aims to create a better understanding of how both individual personal science projects, as well as group citizen science projects that come out of personal science ideas, are performed by individuals, with the goal to understand the interactions, principles and motivations that drive participant-led research within the space of citizen science and personal research. 
+
+We focus on three aspects of personal/citizen science: (1) the individual and their motivations and learning processes, (2) the interactions between individuals and group dynamics, (3) the role of technological infrastructure. 
+
+**Aim 1**: Understanding individual processes when doing personal/citizen science
+
+**Research Question**: We want to get a basic understanding of what individuals learn when participating in personal science and citizen science and what their motivations are for engaging in these activities.
+
+**Aim 2**: Understanding interactions between self-researchers and group dynamics 
+
+**Research Question**: As part of their engagement with personal science individuals frequently interact with other community members. We want to understand how those interactions are experienced by people engaged in personal science and how these group dynamics shape personal science done by individuals.
+
+**Aim 3**: Understanding the role of technology and technological infrastructure
+
+**Research Question**: As part of their engagement with personal science individuals frequently interact with other community members. We want to understand how community interactions are experienced through technology by people engaged in personal science and how these group dynamics shape personal science done by individuals.
+
+### Evaluation criteria 
+
+We will collect via semi-structured interviewing specific questions and topics related to self-researchers activity, motivations, learnings and digital interactions. Although the interviewer will have some discretion about the order in which questions will be asked, these will be standardized and probes would be provided to ensure that the interviews cover the correct issues. The majority of questions will be descriptive, providing a narrative based on how self-researchers describe things, additionally providing insights or suggesting new areas for query that we might not have previously considered (according to repeated phrases, concrete examples, personal research experiences and specific language questions).
+
+Transcribed interviews as primary data will be coded for text analysis based on specific categories about self-researcher’s own practices, beliefs and opinions. Codification will be done by two researchers: one who will conduct the interviews and another one who will not participate in the interviews. Afterwards each category will be tested for reliability to check the level of agreement between the two codifiers. The overall reliability should be higher than the 0.80 (alpha) index recommended by Krippendorff (2018), which enables solid and fundamental conclusions to be drawn beyond mere speculation. 
+
+## Methodology
+
+This is an interdisciplinary, observational, descriptive and analytic cohort study. A semi-structured interview protocol will be used to address a series of questions regarding participation and collaboration in personal science. A special emphasis will be put on motivations and learning processes as a measure of how collaboration takes place and relates to knowledge generation in specific projects and communities of practice related to Open Humans and Quantified Self. Finally, this experimental study will be complemented with participant observation through open community calls and discussion forums, to uncover relations between concepts that relate to self-researchers perceptions, roles and attitudes. We expect this methodology to provide a qualitative basis and a useful approach to understand good practices for personal research projects as participatory citizen science. Additionally, analysis from interview results and online participant observation will also inform future research in the same field for additional methods we are considering, like community surveys and action research interventions (separate IRB review will be requested if additional methods are sought to be used in a later study).
+
+### Total duration of the study
+The research will take place during the autumn of 2020, beginning as soon as possible after IRB approval and no longer than the end of 2021.
+
+### Data Storage and Handling 
+All information and data will be stored using secure data management systems owned by the Center for Research and Interdisciplinarity (CRI). No unauthorized access to data will be given to non-anonymized data. Only the study research staff will have access to identifiable information.
+
+### Anonymization and data sharing
+Individual information and data will be stored privately and will only be accessible to the study staff. Information and data about participants shared outside the study staff will be de-identified by default. This includes not sharing specific details such that an individual's identity may be inferred. 
+
+Individual participants may be provided an opportunity to opt in to being identified. If the research project plans to disseminate information and data about identified individuals, these individuals will be given a copy of the identified material that will be shared prior to any dissemination outside the study staff and may request its anonymization.
+
+De-identified data will be made available to the scientific community, and will be distributed with any publications that arise from this study.
+
+### Compensation
+Participants will not be monetarily compensated for their participation in this study. We will provide a report on the study to all participants at the end of the study and make it also publicly available.
 
 
 
