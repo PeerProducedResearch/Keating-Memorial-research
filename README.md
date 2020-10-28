@@ -97,7 +97,7 @@ Exclusion criteria: None
 
 ### Methodology II: Semi-structured interviews
 
-Prospective participants will be invited to participate in semi-structured interviews to collect information related to the research questions (Annex C). These interviews are expected to occur via videochat software and will be recorded with the assent of the participant.
+Prospective participants will be invited to participate in semi-structured interviews to collect information related to the research questions. These interviews are expected to occur via videochat software and will be recorded with the assent of the participant.
 
 **Number of subjects or samples needed** In order to draw conclusions from our semi structured interviews we expect to need a minimum number of 6-12 participants that consent to be interviewed, but we are prepared to interview up to 25 people. Given that the Open Humans and Quantified Self communities have thousands of members, we expect to easily hit this target.
 
@@ -105,7 +105,7 @@ Prospective participants will be invited to participate in semi-structured inter
 Inclusion criteria (any): Has conducted or attempted to conduct a personal science project / Has participated in public forums, community videochats, and/or online chatrooms about personal science projects
 Main exclusion criteria: None
 
-**Consent Process**: Prospective participants in interviews will be provided with an information form (Annex B) explaining the details of the study and their role in it, providing information that participation in the interview provides consent. Participants will be informed that they can withdraw from the study at any point, and may request for all information they provided to be deleted, without penalty. Participants will be encouraged to ask any questions they may have prior to participating in interviews.
+**Consent Process**: Prospective participants in interviews will be provided with an information form explaining the details of the study and their role in it, providing information that participation in the interview provides consent. Participants will be informed that they can withdraw from the study at any point, and may request for all information they provided to be deleted, without penalty. Participants will be encouraged to ask any questions they may have prior to participating in interviews.
 
 ## Funding
 
