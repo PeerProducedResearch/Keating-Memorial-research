@@ -118,7 +118,7 @@ Prospective participants will be invited to participate in semi-structured inter
 Inclusion criteria (any): Has conducted or attempted to conduct a personal science project / Has participated in public forums, community videochats, and/or online chatrooms about personal science projects
 Main exclusion criteria: None
 
-**Consent Process**: Prospective participants in interviews will be provided with an information form explaining the details of the study and their role in it, providing information that participation in the interview provides consent. Participants will be informed that they can withdraw from the study at any point, and may request for all information they provided to be deleted, without penalty. Participants will be encouraged to ask any questions they may have prior to participating in interviews.
+**Consent Process**: Prospective participants in interviews will be provided with an [information form](information_for_participants-approved-2020-10-13.pdf) explaining the details of the study and their role in it, providing information that participation in the interview provides consent. Participants will be informed that they can withdraw from the study at any point, and may request for all information they provided to be deleted, without penalty. Participants will be encouraged to ask any questions they may have prior to participating in interviews.
 
 ## Funding
 
